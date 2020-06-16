@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ESModCreator__Remastered"
         mc:Ignorable="d"
-        Title="Редактор кода" Height="900" Width="1532" WindowStartupLocation="CenterOwner" WindowStyle="ThreeDBorderWindow" VerticalAlignment="Top" Topmost="True" MaxHeight="900" MaxWidth="1920" WindowState="Maximized" HorizontalContentAlignment="Stretch">
+        Title="Редактор кода" Height="900" Width="1532" WindowStartupLocation="CenterOwner" WindowStyle="ThreeDBorderWindow" VerticalAlignment="Top" Topmost="True" MaxHeight="900" MaxWidth="1920" WindowState="Maximized" HorizontalContentAlignment="Stretch" Icon="Logo.jpg">
     <Grid Background="#FFCBD2DC">
         <ListBox x:Name="num" HorizontalAlignment="Left" Height="762" VerticalAlignment="Top" Width="50" Margin="10,25,0,0" FontSize="11"/>
         <TextBox x:Name="code" HorizontalAlignment="Left" Height="762" Text="TextBox" VerticalAlignment="Top" Width="830" Margin="60,25,0,0" HorizontalScrollBarVisibility="Auto" UndoLimit="2147483647" VerticalScrollBarVisibility="Visible" MaxLength="2147483647" AcceptsReturn="True" AcceptsTab="True" FontSize="14"/>

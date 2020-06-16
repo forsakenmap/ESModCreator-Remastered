@@ -48,7 +48,9 @@ Class MainWindow
         End If
     End Sub
     Private Sub Project_button_Click(sender As Object, e As RoutedEventArgs) Handles Project_button.Click
-
+        Dim a As New Project_main
+        a.Show()
+        Me.Close()
     End Sub
     Private Sub Logo_Click(sender As Object, e As RoutedEventArgs) Handles Logos.MouseUp
         Process.Start("https://vk.com/esmodcreator")

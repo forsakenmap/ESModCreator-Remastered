@@ -11,5 +11,5 @@
 Option Strict Off
 Option Explicit On
 
-<Assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("semen_room.jpg")> 
+<Assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("logo.jpg")> 
 
