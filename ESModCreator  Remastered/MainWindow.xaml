@@ -1,0 +1,22 @@
+﻿<Window x:Name="Menu" x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ESModCreator__Remastered"
+        mc:Ignorable="d"
+        Title="Меню" Height="215.333" Width="446.667" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" FontFamily="DO NOT LEAN ON DOOR">
+    <Grid Margin="0,0,-0.4,3.6">
+        <Grid.Background>
+            <RadialGradientBrush>
+                <GradientStop Color="White" Offset="0"/>
+                <GradientStop Color="White" Offset="1"/>
+            </RadialGradientBrush>
+        </Grid.Background>
+        <Button x:Name="Project_button" Content="Создать/открыть проект" HorizontalAlignment="Left" Margin="175,10,0,0" VerticalAlignment="Top" Width="250" RenderTransformOrigin="1,0" FontFamily="DO NOT LEAN ON DOOR" Height="50" Background="#FF8BC0EB" FontSize="16"/>
+        <Button x:Name="RPY_Edit_button" Content="Редактор кода" HorizontalAlignment="Left" Margin="175,65,0,0" VerticalAlignment="Top" Width="250" Height="50" Background="#FF8BC0EB" FontFamily="DO NOT LEAN ON DOOR" FontSize="16"/>
+        <Button x:Name="About_US" Content="Создатели" HorizontalAlignment="Left" Margin="175,120,0,0" VerticalAlignment="Top" Width="250" Height="50" Background="#FF8BC0EB" FontFamily="DO NOT LEAN ON DOOR" FontSize="16"/>
+        <Image x:Name="Logos" HorizontalAlignment="Left" Height="160" Margin="10,10,0,0" VerticalAlignment="Top" Width="160" Source="pack://siteoforigin:,,,/Resources/Logo.jpg" Cursor="ArrowCD"/>
+
+    </Grid>
+</Window>

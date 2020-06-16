@@ -1,0 +1,254 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ESModCreator  Remastered
+</name>
+</assembly>
+<members>
+<member name="T:ESModCreator__Remastered.My.MyWpfExtension">
+ <summary>
+ Модуль определения свойств, доступных в My Namespace для WPF
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:ESModCreator__Remastered.My.MyWpfExtension.Application">
+ <summary>
+ Возвращает объект приложения для запущенного приложения
+ </summary>
+</member>
+<member name="P:ESModCreator__Remastered.My.MyWpfExtension.Computer">
+ <summary>
+ Возвращает информацию о главном компьютере.
+ </summary>
+</member>
+<member name="P:ESModCreator__Remastered.My.MyWpfExtension.User">
+ <summary>
+ Возвращает информацию для текущего пользователя.  Если вы хотите запустить приложение с текущими 
+ учетными данными пользователя Windows, вызовите My.User.InitializeWithWindowsUser().
+ </summary>
+</member>
+<member name="P:ESModCreator__Remastered.My.MyWpfExtension.Log">
+ <summary>
+ Возвращает журнал приложения. При помощи файла конфигурации приложения можно настроить прослушиватели.
+ </summary>
+</member>
+<member name="P:ESModCreator__Remastered.My.MyWpfExtension.Windows">
+ <summary>
+ Возвращает коллекцию окон, определенных в проекте.
+ </summary>
+</member>
+<member name="T:ESModCreator__Remastered.My.Resources.Resources">
+<summary>
+  Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+</summary>
+</member>
+<member name="P:ESModCreator__Remastered.My.Resources.Resources.ResourceManager">
+<summary>
+  Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+</summary>
+</member>
+<member name="P:ESModCreator__Remastered.My.Resources.Resources.Culture">
+<summary>
+  Перезаписывает свойство CurrentUICulture текущего потока для всех
+  обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+</summary>
+</member>
+<member name="P:ESModCreator__Remastered.My.Resources.Resources.ambience">
+<summary>
+  Ищет локализованную строку, похожую на     play ambience ambience_boat_station_day
+    play ambience ambience_boat_station_night
+    play ambience ambience_camp_center_day
+    play ambience ambience_camp_center_evening
+    play ambience ambience_camp_center_night
+    play ambience ambience_camp_entrance_day
+    play ambience ambience_camp_entrance_evening
+    play ambience ambience_camp_entrance_day_people
+    play ambience ambience_camp_entrance_night
+    play ambience ambience_catacombs
+    play ambience ambience_catacombs_stones
+    play ambi [остаток строки не уместился]&quot;;.
+</summary>
+</member>
+<member name="P:ESModCreator__Remastered.My.Resources.Resources.bg">
+<summary>
+  Ищет локализованную строку, похожую на     scene bg black
+    scene bg bus_stop
+    scene bg ext_aidpost_day
+    scene bg ext_aidpost_night
+    scene bg ext_aidpost_sunset
+    scene bg ext_bathhouse_night
+    scene bg ext_beach_day
+    scene bg ext_beach_night
+    scene bg ext_beach_sunset
+    scene bg ext_boathouse_day
+    scene bg ext_boathouse_night
+    scene bg ext_boathouse_sunset
+    scene bg ext_bus
+    scene bg ext_bus_night
+    scene bg ext_camp_entrance_day
+    scene bg ext_camp_entrance_night
+    scene bg ext_camp_entrance_sunset
+     [остаток строки не уместился]&quot;;.
+</summary>
+</member>
+<member name="P:ESModCreator__Remastered.My.Resources.Resources.cg">
+<summary>
+  Ищет локализованную строку, похожую на     show cg d1_food_normal
+    show cg d1_food_skolop
+    show cg d1_grasshopper
+    show cg d1_rena_sunset
+    show cg d1_rowrow
+    show cg d1_sl_dinner
+    show cg d1_sl_dinner_0
+    show cg d1_uv
+    show cg d1_uv_2
+    show cg d1_uvao_bus
+    show cg d2_2ch_beach
+    show cg d2_dv_guitar
+    show cg d2_lineup
+    show cg d2_micu_lib
+    show cg d2_miku_piano
+    show cg d2_miku_piano2
+    show cg d2_mirror
+    show cg d2_mt_undressed
+    show cg d2_mt_undressed_2
+    show cg d2_slavy [остаток строки не уместился]&quot;;.
+</summary>
+</member>
+<member name="P:ESModCreator__Remastered.My.Resources.Resources.codex">
+<summary>
+  Ищет локализованную строку, похожую на init:
+    $ mods[&quot;ESModCreator&quot;] = u&quot;ESModCreator&quot;
+label &lt;ESModCreator&gt;:
+    play music music_list[&quot;lets_be_friends&quot;]
+    scene bg ext_beach_night
+    th &quot;Здравствуй, для того, чтобы начать писать мод тебе требуется запустить ESModCreator.exe&quot; # ГГ думает
+    th &quot;Он находится относительно места установки Steam в \steamapps\workshop\content\331470\2013143922\&quot; # ГГ думает
+    th &quot;Благодарю за загрузку моего мода, не забывайте писать об ошибках и предлагать улучшения :)&quot;
+    scene bg semen_room with d [остаток строки не уместился]&quot;;.
+</summary>
+</member>
+<member name="P:ESModCreator__Remastered.My.Resources.Resources.commands">
+<summary>
+  Ищет локализованную строку, похожую на label &lt;название блока&gt;:
+    jump # переход к блоку по названию
+    call # переход к блоку с возвратом
+init: # объявляем переменные
+    stop ambience # остановить проигрывание звука
+    image &lt;&gt; = &lt;&gt; # задать изображение в блоке init
+    return
+    with dspr # задержка 0.2 с
+    with dissolve # задержка 1 с
+    .
+</summary>
+</member>
+<member name="P:ESModCreator__Remastered.My.Resources.Resources.Logo">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ESModCreator__Remastered.My.Resources.Resources.music">
+<summary>
+  Ищет локализованную строку, похожую на     play music music_list[&quot;a_promise_from_distant_days&quot;]
+    play music music_list[&quot;a_promise_from_distant_days_v2&quot;]
+    play music music_list[&quot;afterword&quot;]
+    play music music_list[&quot;always_ready&quot;]
+    play music music_list[&quot;awakening_power&quot;]
+    play music music_list[&quot;blow_with_the_fires&quot;]
+    play music music_list[&quot;confession_oboe&quot;]
+    play music music_list[&quot;dance_of_fireflies&quot;]
+    play music music_list[&quot;doomed_to_be_defeated&quot;]
+    play music music_list[&quot;door_to_nightmare&quot;]
+    play music musi [остаток строки не уместился]&quot;;.
+</summary>
+</member>
+<member name="P:ESModCreator__Remastered.My.Resources.Resources.No_in_this">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ESModCreator__Remastered.My.Resources.Resources.sprites">
+<summary>
+  Ищет локализованную строку, похожую на     show cs normal glasses
+    show cs normal stethoscope
+    show cs normal
+    show cs shy glasses
+    show cs shy stethoscope
+    show cs shy
+    show cs smile glasses
+    show cs smile stethoscope
+    show cs smile
+    show dv angry body
+    show dv angry pioneer
+    show dv angry pioneer2
+    show dv cry body
+    show dv cry pioneer
+    show dv cry pioneer2
+    show dv cry swim
+    show dv grin body
+    show dv grin pioneer
+    show dv grin pioneer2
+    show dv grin swim
+    show dv [остаток строки не уместился]&quot;;.
+</summary>
+</member>
+<member name="P:ESModCreator__Remastered.My.Resources.Resources.text">
+<summary>
+  Ищет локализованную строку, похожую на     th &quot;&quot; # ГГ думает
+    me &quot;&quot; # Семен говорит
+    un &quot;&quot; # Лена говорит
+    dv &quot;&quot; # Алиса говорит
+    us &quot;&quot; # Ульяна говорит
+    sl &quot;&quot; # Славя говорит
+    mi &quot;&quot; # Мику говорит
+    uv &quot;&quot; # Юля говорит
+    el &quot;&quot; # Электроник говорит
+    sh &quot;&quot; # Шурик говорит
+    mz &quot;&quot; # Женя говорит
+    mt &quot;&quot; # Ольга Дмитревна говорит
+    cs &quot;&quot; # Виола говорит
+    pi &quot;&quot; # Пионер говорит
+    ma &quot;&quot; # Маша говорит
+    mep &quot;&quot; # Парень говорит
+    unp &quot;&quot; # Пионерка (Лена) (если незнакомы) говорит
+    dvp &quot;&quot; # Пио [остаток строки не уместился]&quot;;.
+</summary>
+</member>
+<member name="T:ESModCreator__Remastered.Application">
+<summary>
+Application
+</summary>
+</member>
+<member name="M:ESModCreator__Remastered.Application.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="M:ESModCreator__Remastered.Application.Main">
+<summary>
+Application Entry Point.
+</summary>
+</member>
+<member name="T:ESModCreator__Remastered.Edit_RPY">
+<summary>
+Edit_RPY
+</summary>
+</member>
+<member name="M:ESModCreator__Remastered.Edit_RPY.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:ESModCreator__Remastered.MainWindow">
+<summary>
+MainWindow
+</summary>
+</member>
+<member name="M:ESModCreator__Remastered.MainWindow.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>

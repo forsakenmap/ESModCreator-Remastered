@@ -1,0 +1,384 @@
+    show cs normal glasses
+    show cs normal stethoscope
+    show cs normal
+    show cs shy glasses
+    show cs shy stethoscope
+    show cs shy
+    show cs smile glasses
+    show cs smile stethoscope
+    show cs smile
+    show dv angry body
+    show dv angry pioneer
+    show dv angry pioneer2
+    show dv cry body
+    show dv cry pioneer
+    show dv cry pioneer2
+    show dv cry swim
+    show dv grin body
+    show dv grin pioneer
+    show dv grin pioneer2
+    show dv grin swim
+    show dv guilty body
+    show dv guilty pioneer
+    show dv guilty pioneer2
+    show dv laugh body
+    show dv laugh pioneer
+    show dv laugh pioneer2
+    show dv laugh swim
+    show dv normal body
+    show dv normal pioneer
+    show dv normal pioneer2
+    show dv normal swim
+    show dv rage body
+    show dv rage pioneer
+    show dv rage pioneer2
+    show dv sad body
+    show dv sad pioneer
+    show dv sad pioneer2
+    show dv scared body
+    show dv scared pioneer
+    show dv scared pioneer2
+    show dv scared swim
+    show dv shocked body
+    show dv shocked pioneer
+    show dv shocked pioneer2
+    show dv shocked swim
+    show dv shy body
+    show dv shy pioneer
+    show dv shy pioneer2
+    show dv smile body
+    show dv smile pioneer
+    show dv smile pioneer2
+    show dv smile swim
+    show dv surprise body
+    show dv surprise pioneer
+    show dv surprise pioneer2
+    show dv surprise swim
+    show el angry pioneer
+    show el fingal pioneer
+    show el grin pioneer
+    show el laugh pioneer
+    show el normal pioneer
+    show el sad pioneer
+    show el scared pioneer
+    show el serious pioneer
+    show el shocked pioneer
+    show el smile pioneer
+    show el surprise pioneer
+    show el upset pioneer
+    show mi angry pioneer
+    show mi angry swim
+    show mi cry pioneer
+    show mi cry swim
+    show mi cry_smile pioneer
+    show mi cry_smile swim
+    show mi dontlike pioneer
+    show mi dontlike swim
+    show mi grin pioneer
+    show mi grin swim
+    show mi happy pioneer
+    show mi happy swim
+    show mi laugh pioneer
+    show mi laugh swim
+    show mi normal pioneer
+    show mi normal swim
+    show mi rage pioneer
+    show mi rage swim
+    show mi sad pioneer
+    show mi sad swim
+    show mi scared pioneer
+    show mi scared swim
+    show mi serious pioneer
+    show mi serious swim
+    show mi shocked pioneer
+    show mi shocked swim
+    show mi shy pioneer
+    show mi shy swim
+    show mi smile pioneer
+    show mi smile swim
+    show mi surprise pioneer
+    show mi surprise swim
+    show mi upset pioneer
+    show mi upset swim
+    show mt angry dress
+    show mt angry panama dress
+    show mt angry panama pioneer
+    show mt angry panama swim
+    show mt angry pioneer
+    show mt angry swim
+    show mt grin panama pioneer
+    show mt grin pioneer
+    show mt laugh panama pioneer
+    show mt laugh pioneer
+    show mt normal dress
+    show mt normal panama dress
+    show mt normal panama pioneer
+    show mt normal panama swim
+    show mt normal pioneer
+    show mt normal swim
+    show mt rage dress
+    show mt rage panama dress
+    show mt rage panama pioneer
+    show mt rage panama swim
+    show mt rage pioneer
+    show mt rage swim
+    show mt sad dress
+    show mt sad panama dress
+    show mt sad panama pioneer
+    show mt sad panama swim
+    show mt sad pioneer
+    show mt sad swim
+    show mt smile dress
+    show mt smile panama dress
+    show mt smile panama pioneer
+    show mt smile panama swim
+    show mt smile pioneer
+    show mt smile swim
+    show mt surprise dress
+    show mt surprise panama dress
+    show mt surprise panama pioneer
+    show mt surprise panama swim
+    show mt surprise pioneer
+    show mt surprise swim
+    show mz angry glasses pioneer
+    show mz angry pioneer
+    show mz bukal glasses pioneer
+    show mz bukal pioneer
+    show mz laugh glasses pioneer
+    show mz laugh pioneer
+    show mz normal glasses pioneer
+    show mz normal pioneer
+    show mz rage glasses pioneer
+    show mz rage pioneer
+    show mz shy glasses pioneer
+    show mz shy pioneer
+    show mz smile glasses pioneer
+    show mz smile pioneer
+    show pi
+    show sh cry pioneer
+    show sh laugh pioneer
+    show sh normal pioneer
+    show sh normal_smile pioneer
+    show sh rage pioneer
+    show sh scared pioneer
+    show sh serious pioneer
+    show sh smile pioneer
+    show sh surprise pioneer
+    show sh upset pioneer
+    show sl angry dress
+    show sl angry pioneer
+    show sl angry sport
+    show sl angry swim
+    show sl happy dress
+    show sl happy pioneer
+    show sl happy sport
+    show sl happy swim
+    show sl laugh dress
+    show sl laugh pioneer
+    show sl laugh sport
+    show sl laugh swim
+    show sl normal dress
+    show sl normal pioneer
+    show sl normal sport
+    show sl normal swim
+    show sl sad dress
+    show sl sad pioneer
+    show sl sad sport
+    show sl sad swim
+    show sl scared dress
+    show sl scared pioneer
+    show sl scared sport
+    show sl scared swim
+    show sl serious dress
+    show sl serious pioneer
+    show sl serious sport
+    show sl serious swim
+    show sl shy dress
+    show sl shy pioneer
+    show sl shy sport
+    show sl shy swim
+    show sl smile dress
+    show sl smile pioneer
+    show sl smile sport
+    show sl smile swim
+    show sl smile2 dress
+    show sl smile2 pioneer
+    show sl smile2 sport
+    show sl smile2 swim
+    show sl surprise dress
+    show sl surprise pioneer
+    show sl surprise sport
+    show sl surprise swim
+    show sl tender dress
+    show sl tender pioneer
+    show sl tender sport
+    show sl tender swim
+    show un angry body
+    show un angry dress
+    show un angry pioneer
+    show un angry sport
+    show un angry swim
+    show un angry2 body
+    show un angry2 dress
+    show un angry2 pioneer
+    show un angry2 sport
+    show un cry body
+    show un cry dress
+    show un cry pioneer
+    show un cry sport
+    show un cry swim
+    show un cry_smile body
+    show un cry_smile dress
+    show un cry_smile pioneer
+    show un cry_smile sport
+    show un cry_smile swim
+    show un evil_smile body
+    show un evil_smile dress
+    show un evil_smile pioneer
+    show un evil_smile sport
+    show un evil_smile swim
+    show un grin body
+    show un grin dress
+    show un grin pioneer
+    show un grin sport
+    show un laugh body
+    show un laugh dress
+    show un laugh pioneer
+    show un laugh sport
+    show un night
+    show un normal body
+    show un normal dress
+    show un normal pioneer
+    show un normal sport
+    show un normal swim
+    show un rage body
+    show un rage dress
+    show un rage pioneer
+    show un rage sport
+    show un sad body
+    show un sad dress
+    show un sad pioneer
+    show un sad sport
+    show un sad swim
+    show un scared body
+    show un scared dress
+    show un scared pioneer
+    show un scared sport
+    show un scared swim
+    show un serious body
+    show un serious dress
+    show un serious pioneer
+    show un serious sport
+    show un shocked body
+    show un shocked dress
+    show un shocked pioneer
+    show un shocked sport
+    show un shocked swim
+    show un shy body
+    show un shy dress
+    show un shy pioneer
+    show un shy sport
+    show un shy swim
+    show un smile body
+    show un smile dress
+    show un smile pioneer
+    show un smile sport
+    show un smile swim
+    show un smile2 body
+    show un smile2 dress
+    show un smile2 pioneer
+    show un smile2 sport
+    show un smile2 swim
+    show un smile3 body
+    show un smile3 dress
+    show un smile3 pioneer
+    show un smile3 sport
+    show un surprise body
+    show un surprise dress
+    show un surprise pioneer
+    show un surprise sport
+    show un surprise swim
+    show us angry dress
+    show us angry pioneer
+    show us angry sport
+    show us angry swim
+    show us calml dress
+    show us calml pioneer
+    show us calml sport
+    show us calml swim
+    show us cry dress
+    show us cry pioneer
+    show us cry sport
+    show us cry swim
+    show us cry2 dress
+    show us cry2 pioneer
+    show us cry2 sport
+    show us cry2 swim
+    show us dontlike dress
+    show us dontlike pioneer
+    show us dontlike sport
+    show us dontlike swim
+    show us fear dress
+    show us fear pioneer
+    show us fear sport
+    show us fear swim
+    show us grin dress
+    show us grin pioneer
+    show us grin sport
+    show us grin swim
+    show us laugh dress
+    show us laugh pioneer
+    show us laugh sport
+    show us laugh swim
+    show us laugh2 dress
+    show us laugh2 pioneer
+    show us laugh2 sport
+    show us laugh2 swim
+    show us normal dress
+    show us normal pioneer
+    show us normal sport
+    show us normal swim
+    show us sad dress
+    show us sad pioneer
+    show us sad sport
+    show us sad swim
+    show us shy dress
+    show us shy pioneer
+    show us shy sport
+    show us shy swim
+    show us shy2 dress
+    show us shy2 pioneer
+    show us shy2 sport
+    show us shy2 swim
+    show us smile dress
+    show us smile pioneer
+    show us smile sport
+    show us smile swim
+    show us surp1 dress
+    show us surp1 pioneer
+    show us surp1 sport
+    show us surp1 swim
+    show us surp2 dress
+    show us surp2 pioneer
+    show us surp2 sport
+    show us surp2 swim
+    show us surp3 dress
+    show us surp3 pioneer
+    show us surp3 sport
+    show us surp3 swim
+    show us upset dress
+    show us upset pioneer
+    show us upset sport
+    show us upset swim
+    show uv dontlike
+    show uv grin
+    show uv guilty
+    show uv laugh
+    show uv normal
+    show uv rage
+    show uv sad
+    show uv shocked
+    show uv smile
+    show uv surprise
+    show uv surprise2
+    show uv upset

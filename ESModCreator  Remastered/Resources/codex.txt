@@ -1,0 +1,11 @@
+﻿init:
+    $ mods["ESModCreator"] = u"ESModCreator"
+label <ESModCreator>:
+    play music music_list["lets_be_friends"]
+    scene bg ext_beach_night
+    th "Здравствуй, для того, чтобы начать писать мод тебе требуется запустить ESModCreator.exe" # ГГ думает
+    th "Он находится относительно места установки Steam в \steamapps\workshop\content\331470\2013143922\" # ГГ думает
+    th "Благодарю за загрузку моего мода, не забывайте писать об ошибках и предлагать улучшения :)"
+    scene bg semen_room with dissolve # задержка 1 с
+    th "Удачи!"
+    stop music
