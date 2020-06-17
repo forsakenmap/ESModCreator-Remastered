@@ -215,6 +215,16 @@ init: # объявляем переменные
     dvp &quot;&quot; # Пио [остаток строки не уместился]&quot;;.
 </summary>
 </member>
+<member name="T:ESModCreator__Remastered.Project_main">
+<summary>
+Project_main
+</summary>
+</member>
+<member name="M:ESModCreator__Remastered.Project_main.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
 <member name="T:ESModCreator__Remastered.Application">
 <summary>
 Application

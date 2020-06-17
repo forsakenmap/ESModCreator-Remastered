@@ -112,4 +112,7 @@ Public Class Edit_RPY
         Catch ex As Exception
         End Try
     End Sub
+    Private Sub Resize_elem() Handles Me.SizeChanged
+        'TODO - здесь нужно сделать отрисовку интерфейса в соответствии с размером окна
+    End Sub
 End Class

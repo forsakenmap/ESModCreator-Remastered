@@ -17,3 +17,24 @@ C:\Users\user\source\repos\ESModCreator  Remastered\ESModCreator  Remastered\obj
 C:\Users\user\source\repos\ESModCreator  Remastered\ESModCreator  Remastered\obj\Debug\ESModCreator  Remastered.pdb
 C:\Users\user\source\repos\ESModCreator  Remastered\ESModCreator  Remastered\obj\Debug\Edit_RPY.g.vb
 C:\Users\user\source\repos\ESModCreator  Remastered\ESModCreator  Remastered\obj\Debug\Edit_RPY.baml
+C:\Users\user\Documents\GitHub\ESModCreator\ESModCreator  Remastered\bin\Debug\ESModCreator  Remastered.exe.config
+C:\Users\user\Documents\GitHub\ESModCreator\ESModCreator  Remastered\bin\Debug\ESModCreator  Remastered.exe
+C:\Users\user\Documents\GitHub\ESModCreator\ESModCreator  Remastered\bin\Debug\ESModCreator  Remastered.pdb
+C:\Users\user\Documents\GitHub\ESModCreator\ESModCreator  Remastered\bin\Debug\ESModCreator  Remastered.xml
+C:\Users\user\Documents\GitHub\ESModCreator\ESModCreator  Remastered\obj\Debug\ESModCreator  Remastered.vbprojAssemblyReference.cache
+C:\Users\user\Documents\GitHub\ESModCreator\ESModCreator  Remastered\obj\Debug\Edit_RPY.g.vb
+C:\Users\user\Documents\GitHub\ESModCreator\ESModCreator  Remastered\obj\Debug\MainWindow.g.vb
+C:\Users\user\Documents\GitHub\ESModCreator\ESModCreator  Remastered\obj\Debug\Project_main.g.vb
+C:\Users\user\Documents\GitHub\ESModCreator\ESModCreator  Remastered\obj\Debug\Application.g.vb
+C:\Users\user\Documents\GitHub\ESModCreator\ESModCreator  Remastered\obj\Debug\ESModCreator  Remastered_MarkupCompile.cache
+C:\Users\user\Documents\GitHub\ESModCreator\ESModCreator  Remastered\obj\Debug\ESModCreator  Remastered_MarkupCompile.lref
+C:\Users\user\Documents\GitHub\ESModCreator\ESModCreator  Remastered\obj\Debug\Edit_RPY.baml
+C:\Users\user\Documents\GitHub\ESModCreator\ESModCreator  Remastered\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\GitHub\ESModCreator\ESModCreator  Remastered\obj\Debug\Project_main.baml
+C:\Users\user\Documents\GitHub\ESModCreator\ESModCreator  Remastered\obj\Debug\ESModCreator  Remastered.g.resources
+C:\Users\user\Documents\GitHub\ESModCreator\ESModCreator  Remastered\obj\Debug\ESModCreator__Remastered.Resources.resources
+C:\Users\user\Documents\GitHub\ESModCreator\ESModCreator  Remastered\obj\Debug\ESModCreator  Remastered.vbproj.GenerateResource.cache
+C:\Users\user\Documents\GitHub\ESModCreator\ESModCreator  Remastered\obj\Debug\ESModCreator  Remastered.vbproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\ESModCreator\ESModCreator  Remastered\obj\Debug\ESModCreator  Remastered.exe
+C:\Users\user\Documents\GitHub\ESModCreator\ESModCreator  Remastered\obj\Debug\ESModCreator  Remastered.xml
+C:\Users\user\Documents\GitHub\ESModCreator\ESModCreator  Remastered\obj\Debug\ESModCreator  Remastered.pdb
