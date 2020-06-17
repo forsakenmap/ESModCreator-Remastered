@@ -93,7 +93,7 @@ Public Class Edit_RPY
             Catch ex As Exception
             End Try
         Catch ex As Exception
-            End Try
+        End Try
     End Sub
     Shared Function BitmapToImage(ByVal btm As Bitmap) As BitmapImage 'Преобразование Bitmap к ImageSource
         Dim ms As New MemoryStream()
