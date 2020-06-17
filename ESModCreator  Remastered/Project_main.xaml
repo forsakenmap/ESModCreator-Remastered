@@ -7,7 +7,11 @@
         mc:Ignorable="d"
         Title="Project_main" Height="1000" Width="1920" Icon="Logo.jpg">
     <Grid>
-        <TextBox x:Name="Code" HorizontalAlignment="Left" Height="340" Margin="10,40,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="349" UndoLimit="2147483647"/>
+        <TextBox x:Name="Code" HorizontalAlignment="Left" Height="600" Margin="10,44,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="1000" UndoLimit="2147483647"/>
+        <ListBox x:Name="Err_List" HorizontalAlignment="Left" Height="310" Margin="10,649,0,0" VerticalAlignment="Top" Width="1382"/>
+        <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="600" Margin="1502,44,0,0" VerticalAlignment="Top" Width="402"/>
+        <ListBox x:Name="listBox1" HorizontalAlignment="Left" Height="600" Margin="1015,44,0,0" VerticalAlignment="Top" Width="482"/>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="310" Margin="1397,649,0,0" VerticalAlignment="Top" Width="507"/>
 
     </Grid>
 </Window>
