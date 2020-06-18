@@ -112,6 +112,40 @@ Public Class Edit_RPY
         Catch ex As Exception
         End Try
     End Sub
+    Private Sub hints_SelectionChanged(sender As Object, e As RoutedEventArgs) Handles hints.SelectionChanged
+        Try
+            Dim SelectedHint As String = Replace(hints.SelectedItem, "    ", "")
+            Select Case Get_Word(1, SelectedHint)
+                Case "scene"
+                    Show_bg(SelectedHint)
+                Case "show"
+                    Show_cg(SelectedHint)
+                Case "play"
+                    Play_audio(SelectedHint)
+            End Select
+        Catch ex As Exception
+        End Try
+    End Sub
+    Private Sub Show_bg(ByVal bg_adr As String)
+        Dim addr As String = Replace(bg_adr, "scene ", "")
+        preView.Source = BitmapToImage(Image.FromFile("bg/" + addr + ".jpg"))
+    End Sub
+    Private Sub Show_cg(ByVal cg_adr As String)
+
+    End Sub
+    Private Sub Play_audio(ByVal playnow As String)
+
+    End Sub
+    Private Function Get_Word(ByVal a As Integer, ByVal str As String)
+        Dim WrdArr() As String = Split(str)
+        Dim i As Integer = 1
+        For Each Word In WrdArr
+            If i = a Then
+                Return Word
+            End If
+            i += 1
+        Next
+    End Function
     Private Sub Resize_elem() Handles Me.SizeChanged
         'TODO - здесь нужно сделать отрисовку интерфейса в соответствии с размером окна
     End Sub

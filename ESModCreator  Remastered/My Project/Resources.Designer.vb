@@ -72,7 +72,7 @@ Namespace My.Resources
         '''    play ambience ambience_camp_entrance_night
         '''    play ambience ambience_catacombs
         '''    play ambience ambience_catacombs_stones
-        '''    play ambi [остаток строки не уместился]&quot;;.
+        '''   [остаток строки не уместился]&quot;;.
         '''</summary>
         Friend ReadOnly Property ambience() As String
             Get
@@ -97,8 +97,7 @@ Namespace My.Resources
         '''    scene bg ext_bus_night
         '''    scene bg ext_camp_entrance_day
         '''    scene bg ext_camp_entrance_night
-        '''    scene bg ext_camp_entrance_sunset
-        '''     [остаток строки не уместился]&quot;;.
+        '''    scene bg ext_camp_entr [остаток строки не уместился]&quot;;.
         '''</summary>
         Friend ReadOnly Property bg() As String
             Get
@@ -195,6 +194,16 @@ Namespace My.Resources
         Friend ReadOnly Property music() As String
             Get
                 Return ResourceManager.GetString("music", resourceCulture)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property Music1() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Music1", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property
         
