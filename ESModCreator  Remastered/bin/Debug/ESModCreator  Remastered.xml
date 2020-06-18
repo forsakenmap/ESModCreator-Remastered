@@ -67,7 +67,7 @@ ESModCreator  Remastered
     play ambience ambience_camp_entrance_night
     play ambience ambience_catacombs
     play ambience ambience_catacombs_stones
-    play ambi [остаток строки не уместился]&quot;;.
+   [остаток строки не уместился]&quot;;.
 </summary>
 </member>
 <member name="P:ESModCreator__Remastered.My.Resources.Resources.bg">
@@ -88,8 +88,7 @@ ESModCreator  Remastered
     scene bg ext_bus_night
     scene bg ext_camp_entrance_day
     scene bg ext_camp_entrance_night
-    scene bg ext_camp_entrance_sunset
-     [остаток строки не уместился]&quot;;.
+    scene bg ext_camp_entr [остаток строки не уместился]&quot;;.
 </summary>
 </member>
 <member name="P:ESModCreator__Remastered.My.Resources.Resources.cg">
@@ -161,6 +160,11 @@ init: # объявляем переменные
     play music music_list[&quot;doomed_to_be_defeated&quot;]
     play music music_list[&quot;door_to_nightmare&quot;]
     play music musi [остаток строки не уместился]&quot;;.
+</summary>
+</member>
+<member name="P:ESModCreator__Remastered.My.Resources.Resources.Music1">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
 </summary>
 </member>
 <member name="P:ESModCreator__Remastered.My.Resources.Resources.No_in_this">

@@ -127,14 +127,24 @@ Public Class Edit_RPY
         End Try
     End Sub
     Private Sub Show_bg(ByVal bg_adr As String)
-        Dim addr As String = Replace(bg_adr, "scene ", "")
-        preView.Source = BitmapToImage(Image.FromFile("bg/" + addr + ".jpg"))
+        Dim addr As String = Replace(bg_adr, "scene bg ", "")
+        MsgBox(Directory.GetCurrentDirectory + "\bg\" + addr + ".jpg")
+        preView.Source = BitmapToImage(Image.FromFile(Directory.GetCurrentDirectory + "\bg\" + addr + ".jpg"))
+
     End Sub
     Private Sub Show_cg(ByVal cg_adr As String)
-
+        If InStr(cg_adr, "show cg ") > -1 Then
+            Dim addr As String = Replace(cg_adr, "show cg ", "")
+            MsgBox(Directory.GetCurrentDirectory + "\cg\" + addr + ".jpg")
+            preView.Source = BitmapToImage(Image.FromFile(Directory.GetCurrentDirectory + "\cg\" + addr + ".jpg"))
+        Else
+            Dim addr As String = Replace(cg_adr, "show ", "")
+            MsgBox(Directory.GetCurrentDirectory + "\sprites\" + addr + ".jpg")
+            preView.Source = BitmapToImage(Image.FromFile(Directory.GetCurrentDirectory + "\sprites\" + addr + ".png"))
+        End If
     End Sub
     Private Sub Play_audio(ByVal playnow As String)
-
+        'TODO воспроизведение звуков
     End Sub
     Private Function Get_Word(ByVal a As Integer, ByVal str As String)
         Dim WrdArr() As String = Split(str)
